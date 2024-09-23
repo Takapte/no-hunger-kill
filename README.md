@@ -1,6 +1,6 @@
 # Script QBCore - No Hunger Kill
 
-https://discord.gg/a5tnqcz8Ve
+https://discord.gg/legionrp
 
 ## Description
 
