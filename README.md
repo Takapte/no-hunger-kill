@@ -29,17 +29,11 @@
 ### Français
 
 1. Téléchargez le script et placez le dossier dans le répertoire **`resources`** de votre serveur.
-2. Ajoutez la ligne suivante dans votre fichier **`server.cfg`** :
-
-> ensure no-hunger-kill
-
+2. Ajoutez la ligne suivante dans votre fichier **`server.cfg`** : `ensure no-hunger-kill`
 3. Redémarrez votre serveur et profitez du script !
 
 ### English
 
 1. Download the script and place the folder in your server's **`resources`** directory.
-2. Add the following line to your **`server.cfg`** file:
-
-> ensure no-hunger-kill
-
+2. Add the following line to your **`server.cfg`** file: `ensure no-hunger-kill`
 3. Restart your server and enjoy the script!
